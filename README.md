@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React Boilerplate
+
+#### Possible UI frameworks for using
+1. [Antd](https://ant.design/docs/react/introduce)
+2. [Blueprint](https://blueprintjs.com/docs/)
+3. [Evergreen](https://evergreen.surge.sh/get-started/introduction)
+
 
 ## Available Scripts
 
@@ -39,6 +45,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. [React documentation](https://reactjs.org/).
+2. [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. [unstated documentation](https://github.com/jamiebuilds/unstated).
+4. [styled-components documentation](https://www.styled-components.com/).
+5. [routing documentation](https://reacttraining.com/react-router/web/guides/quick-start).
+6. [react-media documentation](https://github.com/ReactTraining/react-media).
+7. [react-loadable documentation](https://github.com/jamiebuilds/react-loadable).
+8. [date-fns documentation](https://date-fns.org/).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
